@@ -1,0 +1,23 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Barab\'asi 2003]{Barabasi2003-1}
+\abntrefinfo{Barab\'asi}{BARAB\'ASI}{2003}
+{BARAB\'ASI, A. L. \emph{Linked: A Nova Ci\^encia dos Networks}. São Paulo:
+  Leopardo Editora, 2003.}
+
+\bibitem[Newman e Watts 2006]{NBW2006}
+\abntrefinfo{Newman e Watts}{NEWMAN; WATTS}{2006}
+{NEWMAN, A.-L.~B. M.; WATTS, D.~J. \emph{The Structure and Dynamics of
+  Networks}. Princeton, NJ, USA: Princeton University Press, 2006.}
+
+\bibitem[Watts 2003]{Watts2003}
+\abntrefinfo{Watts}{WATTS}{2003}
+{WATTS, D. J. \emph{Six Degrees: The Science of a Connected Age}. New York: W W
+  Norton \& Co., 2003.}
+
+\end{thebibliography}

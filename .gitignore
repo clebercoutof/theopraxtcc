@@ -1,0 +1,16 @@
+
+*.aux
+
+*.toc
+
+*.gz
+
+*.lot
+
+*.log
+
+*.lof
+
+*.idx
+
+*.out
